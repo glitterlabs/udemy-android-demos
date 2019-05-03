@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "166339905174",
+    "firebase_url": "https://skeleton-cf37f.firebaseio.com",
+    "project_id": "skeleton-cf37f",
+    "storage_bucket": "skeleton-cf37f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166339905174:android:52b874540c4e4b71",
+        "android_client_info": {
+          "package_name": "com.glitterlabs.home.skeleton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166339905174-e5mm9mvcroeo277fndblf7eronv7tikg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5UKakRdGj4G7DvXV5KKz2Uoxt8s6Lvl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166339905174-e5mm9mvcroeo277fndblf7eronv7tikg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

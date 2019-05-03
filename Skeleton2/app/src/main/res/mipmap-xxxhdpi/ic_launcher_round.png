@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="535deeb1-ad2a-4167-9a6e-9132b5b0ae70" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/src/androidTest/java/com/glitterlabs/home/ajayimagecompresspoc/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/src/main/java/com/glitterlabs/home/ajayimagecompresspoc/FinalActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/src/main/java/com/glitterlabs/home/ajayimagecompresspoc/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/src/main/java/com/glitterlabs/home/ajayimagecompresspoc/OptimizeScree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/src/main/java/com/glitterlabs/home/ajayimagecompresspoc/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/src/main/res/layout/activity_final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/src/main/res/layout/activity_optimize_scree.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/app/src/test/java/com/glitterlabs/home/ajayimagecompresspoc/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AjayImageCompressPOC/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Camera1/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Camera1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Camera2/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Camera2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/app/src/androidTest/java/com/glitterlabs/home/camerademo/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/app/src/main/ic_launcher-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/app/src/main/java/com/glitterlabs/home/camerademo/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/app/src/main/java/com/glitterlabs/home/camerademo/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/app/src/test/java/com/glitterlabs/home/camerademo/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/app/src/androidTest/java/com/glitterlabs/home/camerademo1/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/app/src/main/java/com/glitterlabs/home/camerademo1/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/app/src/main/res/menu/main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/app/src/main/res/menu/menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/app/src/test/java/com/glitterlabs/home/camerademo1/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CameraDemo1/gradlew.bat" afterDir="false" />
+    
